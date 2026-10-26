@@ -1,0 +1,5 @@
+[
+  ["image.imageSize",            {"width": 1600, "resample": "bicubicSharper"}],
+  ["image.autoTone",             {}],
+  ["filter.sharpen.smartSharpen", {"amount": 60, "radius": 0.8, "reduceNoise": 10}]
+]
