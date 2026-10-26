@@ -1,5 +1,5 @@
 [
-  ["image.imageSize",            {"width": 1600, "resample": "bicubicSharper"}],
-  ["image.autoTone",             {}],
+  ["file.automate.fitImage",      {"width": 1600, "height": 1600, "dontEnlarge": true, "resample": "bicubicSharper"}],
+  ["image.autoContrast",          {}],
   ["filter.sharpen.smartSharpen", {"amount": 60, "radius": 0.8, "reduceNoise": 10}]
 ]
